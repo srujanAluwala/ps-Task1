@@ -1,0 +1,27 @@
+.body{
+    /* background-attachment: ; */
+    background-color:#f4d0b3;
+    font-size: large;
+}
+.img{
+    border-radius: 50%;
+    /*  */
+}
+.in{
+    margin-left: 550px;
+}
+.t{
+    /* background-color: aquamarine; */
+    border: 2.4px solid;
+    width: 1000px;
+    height: 136px;
+}
+.h{
+    background-color: #61764B;
+}
+.r{
+ color: white;   
+}
+.gk{
+height: 44px;
+}
